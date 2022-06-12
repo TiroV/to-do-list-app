@@ -1,2 +1,9 @@
 # to-do-list-app
- A simple app that will allow you to order and sort items in a list
+ ## Description
+ This little application allows you to:
+ - Add objects to a list
+ - Remove objects to a list
+ - Tick them off as done
+ 
+ ## Tools used:
+- jQuery
